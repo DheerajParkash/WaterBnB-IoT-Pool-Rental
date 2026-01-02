@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ## 🔗 Live Links
 - GitHub: [WaterBnB Repository](https://github.com/DheerajParkash/WaterBnB-IoT-Pool-Rental)  
 - Flask Server (Railway): [WaterBnB Live](https://waterbnbf-master-production.up.railway.app/)  
-- Analytics Dashboard: [MongoDB Charts]  (https://charts.mongodb.com/charts-project-0-gpmtr/public/dashboards/300b3150-ec7d-4fd4-8528-1c7f95721541)
+- Analytics Dashboard: [MongoDB Charts](https://charts.mongodb.com/charts-project-0-gpmtr/public/dashboards/300b3150-ec7d-4fd4-8528-1c7f95721541)
 
 ## 👥 Contributors
 - Dheeraj Parkash  
