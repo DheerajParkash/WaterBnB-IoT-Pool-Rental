@@ -19,9 +19,7 @@ from pymongo import MongoClient
 
 # Connect to Cluster Mongo : attention aux permissions "network"/MONGO  !!!!!!!!!!!!!!!!
 ADMIN=True # Faut etre ADMIN pour ecrire dans la base
-#client = MongoClient("mongodb+srv://menez:monpassadminQ@cluster0.x0zyf.mongodb.net/?retryWrites=true&w=majority")
-#client = MongoClient("mongodb+srv://logincfsujet:pwdcfsujet@cluster0.x0zyf.mongodb.net/?retryWrites=true&w=majority")
-client = MongoClient("mongodb+srv://visitor:doliprane@ac-hb4shhb-shard-00-02.7c2pqfs.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient()
 
 # db is an attribute of client =>  all databases 
 
